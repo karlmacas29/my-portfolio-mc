@@ -47,7 +47,7 @@
         "title": "Cipher Login Website",
         "imgSrc": "proj7.png",
         "description": "Cipher Log in with Api(Google and Facebook)",
-        "tools": ["IT 312 Integrative Programming","PHP", "Jquery","Bootstrap", "API", "MySQL"],
+        "tools": ["IT 312 Integrative Programming","PHP", "Jquery","Bootstrap", "API", "MySQL", "Google Auth"],
         "source": "https://github.com/karlmacas29/cipher-login-macas"
     }
 ]
