@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Cropsight",
+        "imgSrc": "proj1.png",
+        "description": "A image processing for identify rice crop pest.",
+        "tools": ["IT323 - Capstone","Flutter","Tensorflow", "Python"],
+        "source": "https://github.com/karlmacas29/cropsight-capstone"
+    },
+    {
+        "title": "GalaPlano",
+        "imgSrc": "proj2.png",
+        "description": "An Event Planning Booking App.",
+        "tools": ["IT321 - HCI","ITSPEC4 - Technopreneurship","Figma"],
+        "source": "https://www.figma.com/proto/HtkGaxwXWFiSLCFioZ6C7N/GalaPlano-App?node-id=68-2110&starting-point-node-id=32%3A462&scaling=scale-down&t=Y4IjRlCA73hlBpHa-1"
+    },
+    {
+        "title": "V-Doctor",
+        "imgSrc": "proj3.png",
+        "description": "A Virtual Doctor Consultation System Web",
+        "tools": ["IT324 - SPI","Figma"],
+        "source": "https://www.figma.com/design/4pNtkaT4e1y7wcCzEYWRwU/V-Doctor?node-id=0-1&t=Kn0hRkpUM56pOz9m-1"
+    },
+    {
+        "title": "Cropsight Machine Learning",
+        "imgSrc": "proj5.png",
+        "description": "A step-by-step machine learning mobilenetv2 model using python",
+        "tools": ["ITSPEC3 Data Mining","Python", "Google Colab", "Mobilenetv2", "Tensorflow"],
+        "source": "https://drive.google.com/file/d/1cBaiLxFGeuCz7Nv4Tf2TI7u4fKeHrvtl/view?usp=sharing"
+    },
+    {
+        "title": "InstaClone",
+        "imgSrc": "proj4.png",
+        "description": "A Simple Social Media Instagram Clone Made in Flutter",
+        "tools": ["IT 312 Integrative Programming","Flutter", "Firebase"],
+        "source": "https://github.com/karlmacas29/igclone-flutter"
+    }
+    ,
+    {
+        "title": "Contacts-fire",
+        "imgSrc": "proj6.png",
+        "description": "A flutter app Contact using Firebase CRUD",
+        "tools": ["IT 312 Integrative Programming","Flutter", "Firebase"],
+        "source": "https://github.com/karlmacas29/contacts-fire"
+    }
+    ,
+    {
+        "title": "Cipher Login Website",
+        "imgSrc": "proj7.png",
+        "description": "Cipher Log in with Api(Google and Facebook)",
+        "tools": ["IT 312 Integrative Programming","PHP", "Jquery","Bootstrap", "API", "MySQL"],
+        "source": "https://github.com/karlmacas29/cipher-login-macas"
+    }
+]
